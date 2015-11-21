@@ -1,6 +1,6 @@
-# docker-kivy
-
-A simple docker container that provides a build environment for Kivy
+===========
+Kivy docker
+===========
 
 Build
 -----
